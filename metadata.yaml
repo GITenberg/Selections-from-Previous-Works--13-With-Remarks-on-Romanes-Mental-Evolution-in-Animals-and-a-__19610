@@ -1,0 +1,35 @@
+_repo: Selections-from-Previous-Works--13-With-Remarks-on-Romanes-Mental-Evolution-in-Animals-and-a-__19610
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Butler, Samuel
+    alias: Cellarius
+    birthdate: 1835
+    deathdate: 1902
+    gutenberg_agent_id: '748'
+    url: http://www.gutenberg.org/2009/agents/748
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Butler_(1835-1902)
+description: ''
+gutenberg_issued: '2006-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19610'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Romanes, George John, 1848-1894. Mental evolution in animals'
+- !lcc 'PR'
+- !lcsh 'English literature -- 19th century -- Miscellanea'
+tableOfContents: Selections from Erewhon -- From the Fair Haven -- Selections from
+  life and habit -- Selections from evolution, old and new -- Extracts from unconscious
+  memory -- Remarks on Mr. Romanes' Mental evolution in animals -- Extracts from Alps
+  and sanctuaries of Piedmont and the Canton Ticino -- A psalm of Montreal.
+title: "Selections from Previous Works\r\nWith Remarks on Romanes' Mental Evolution\
+  \ in Animals, and a Psalm of Montreal"
+url: http://www.gutenberg.org/ebooks/19610
