@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/748
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Butler_(1835-1902)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19610#Selections-from-Previous-Works--13-With-Remarks-on-Romanes-Mental-Evolution-in-Animals-and-a-_
 gutenberg_issued: '2006-10-24'
 gutenberg_type: Text
 identifiers:
